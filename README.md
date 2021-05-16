@@ -23,11 +23,12 @@ The deep learning model was set up with 2 hidden layers which yielded a total of
 In order to improve model performance a series of 3 attempts were made at optimization. None of the optimizations had a material impact on the results which can be seen in the next section below.
 - Optimization 1: Add additional neurons to the original layers (neurons per layer: 132 and 66)
 - Optimization 2: Change activation function from ReLU to Tanh
-- Optimization 3: Add a third and fourth hidden layer with 132,66,33, and 12 neurons.
+- Optimization 3: Add a third and fourth hidden layer with 132, 66, 33, and 12 neurons.
 
 ### Overall Results
 The final results are listed below.
 ![ Results](https://github.com/Brooks2210/Neural_Network_Charity_Analysis/blob/main/Results.png)
+
 From this table we can see that the original model had a loss of 0.55 and accuracy of 0.73. The additional optimization attempts did not have any greater success than the original model. 
 
 ## Summary

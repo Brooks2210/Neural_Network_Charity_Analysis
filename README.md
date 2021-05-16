@@ -27,7 +27,8 @@ In order to improve model performance a series of 3 attempts were made at optimi
 
 ### Overall Results
 The final results are listed below.
-![ Results](https://github.com/Brooks2210/Neural_Network_Charity_Analysis/blob/main/Results.png)
+
+![Results](https://github.com/Brooks2210/Neural_Network_Charity_Analysis/blob/main/Results.png)
 
 From this table we can see that the original model had a loss of 0.55 and accuracy of 0.73. The additional optimization attempts did not have any greater success than the original model. 
 
